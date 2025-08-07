@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Um script de auto-farm para WPlace.live, automatizando a pintura de pixels.
-// @author       AI Assistant
+// @author       4b1ss4l
 // @match        *://wplace.live/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wplace.live
 // @grant        none
